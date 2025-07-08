@@ -29,3 +29,5 @@ st.write(f"👉 기초대사량 (BMR): **{bmr:.0f} kcal**")
 st.write(f"👉 하루 유지 칼로리 (TDEE): **{tdee:.0f} kcal**")
 st.write(f"🔹 다이어트용: {tdee - 500:.0f} ~ {tdee - 300:.0f} kcal/day")
 st.write(f"🔹 벌크업용: {tdee + 300:.0f} ~ {tdee + 500:.0f} kcal/day")
+
+st.write(f"감사합니다😊")
